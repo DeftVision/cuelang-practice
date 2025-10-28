@@ -2,9 +2,7 @@
   "student_id": "S123456",
   "first_name": "Kyle",
   "last_name": "Broflovski",
-  "grade": 14,
+  "grade": 8,
   "enrollment_status": "active",
   "homeroom_teacher": "Mr. Garrison"
 }
-
-
