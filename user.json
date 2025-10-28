@@ -1,5 +1,10 @@
 {
-  "name": 123,
-  "age": 10,
-  "role": "Spy"
+  "student_id": "S123456",
+  "first_name": "Kyle",
+  "last_name": "Broflovski",
+  "grade": 14,
+  "enrollment_status": "active",
+  "homeroom_teacher": "Mr. Garrison"
 }
+
+
